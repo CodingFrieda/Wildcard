@@ -6,6 +6,9 @@ Your self-hosted placeholder microservice of choice.
 
 ## Contents
 
+- [Description](#description)
+	- [What is Wildcard?](#what-is-wildcard)
+	- [Whyt Wildcard?](#why-wildcard)
 - [How to use](#how-to-use)
 	- [With Now](#with-now)
 	- [With Docker](#with-docker)
@@ -16,7 +19,13 @@ Your self-hosted placeholder microservice of choice.
 
 ## Description
 
+### What is Wildcard?
+
 Wildcard is similar to [Unsplash It](https://unsplash.it) and other placeholder services. The main difference is that Wildcard was built to be the self-hosted. You decide where to run it and which images it should serve. A simple REST API provides you with an access to all images placed in `images/`. Requesting specific or random placeholders in different sizes and variations (greyscaled, blurred or cropped) is just a matter of the URL.
+
+### Why Wildcard?
+
+I've used a lot of placeholder images on sites (front-ends without real content) I've built. My favorite placeholder service suddenly shut down and my front-ends started to look odd. I don't think it's necessary to depend on such a service, so I started to develop Wildcard as a self-hosted alternative.
 
 ## How to use
 
