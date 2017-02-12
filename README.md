@@ -45,14 +45,14 @@ now
 Start Wildcard with [Docker](https://docker.com) installed on your system.
 
 ```sh
-docker run -p 2015:3000 -v /path/to/images/:/srv/app/data/ electerious/Wildcard
+docker run -p 2015:3000 -v /path/to/images/:/srv/app/data/ electerious/wildcard
 ```
 
 This command will…
 
 - …map the internal port (`3000`) to port `2015` on your system (`-p`).
 - …allow Wildcard to use the images from your system located at `/path/to/images/` (`-v`).
-- …use and run the newest version of Wildcard (`electerious/Wildcard`).
+- …use and run the newest version of Wildcard (`electerious/wildcard`).
 
 ### Manually
 
