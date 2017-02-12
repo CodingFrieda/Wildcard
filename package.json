@@ -1,0 +1,33 @@
+{
+  "name": "wildcard",
+  "private": true,
+  "version": "0.0.1",
+  "authors": [
+    "Tobias Reich <tobias@electerious.com>"
+  ],
+  "description": "Your self-hosted placeholder microservice of choice",
+  "main": "src/index.js",
+  "keywords": [
+    "wildcard",
+    "placeholder",
+    "placeholders",
+    "images"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/electerious/Wildcard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electerious/Wildcard.git"
+  },
+  "scripts": {
+    "start": "micro",
+    "test": "nyc ava"
+  },
+  "dependencies": {
+    "micro": "^7.0.2"
+  },
+  "devDependencies": {
+    "ava": "^0.18.1",
+    "nyc": "^10.1.2"
+  }
+}
