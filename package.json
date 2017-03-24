@@ -24,10 +24,10 @@
     "test": "nyc ava"
   },
   "dependencies": {
-    "micro": "^7.0.2"
+    "micro": "^7.2.1"
   },
   "devDependencies": {
-    "ava": "^0.18.1",
+    "ava": "^0.18.2",
     "nyc": "^10.1.2"
   }
 }
