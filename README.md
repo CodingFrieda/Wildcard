@@ -1,7 +1,5 @@
 # Wildcard (WIP)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/electerious/Wildcard.svg)](https://greenkeeper.io/)
-
 [![Travis Build Status](https://travis-ci.org/electerious/Wildcard.svg?branch=master)](https://travis-ci.org/electerious/Wildcard) [![Coverage Status](https://coveralls.io/repos/github/electerious/Wildcard/badge.svg?branch=master)](https://coveralls.io/github/electerious/Wildcard?branch=master) [![Dependencies](https://david-dm.org/electerious/Wildcard.svg)](https://david-dm.org/electerious/Wildcard#info=dependencies)
 
 Your self-hosted placeholder microservice of choice.
