@@ -1,6 +1,6 @@
 # Wildcard (WIP)
 
-[![Travis Build Status](https://travis-ci.org/electerious/Wildcard.svg?branch=master)](https://travis-ci.org/electerious/Wildcard) [![Coverage Status](https://coveralls.io/repos/github/electerious/Wildcard/badge.svg?branch=master)](https://coveralls.io/github/electerious/Wildcard?branch=master) [![Dependencies](https://david-dm.org/electerious/Wildcard.svg)](https://david-dm.org/electerious/Wildcard#info=dependencies)
+[![Travis Build Status](https://travis-ci.org/electerious/Wildcard.svg?branch=master)](https://travis-ci.org/electerious/Wildcard) [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/4euakl9pruvmls16?svg=true)](https://ci.appveyor.com/project/electerious/wildcard) [![Coverage Status](https://coveralls.io/repos/github/electerious/Wildcard/badge.svg?branch=master)](https://coveralls.io/github/electerious/Wildcard?branch=master) [![Dependencies](https://david-dm.org/electerious/Wildcard.svg)](https://david-dm.org/electerious/Wildcard#info=dependencies)
 
 Your self-hosted placeholder microservice of choice.
 
