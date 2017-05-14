@@ -21,13 +21,15 @@
   },
   "scripts": {
     "start": "micro",
-    "test": "nyc ava"
+    "test": "nyc ava",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
   },
   "dependencies": {
     "micro": "^7.2.1"
   },
   "devDependencies": {
     "ava": "^0.19.1",
+    "coveralls": "^2.13.1",
     "nyc": "^10.1.2"
   }
 }
